@@ -1,0 +1,18 @@
+:: Instalar dependencias
+pip install -r requirements.txt
+pip install --upgrade setuptools
+pip install qpsolvers
+pip install tensorflow>=2.2
+pip install h5py~=2.10.0
+pip install --force-reinstall numpy==1.19.2
+pip install six~=1.15.0
+
+:: Obtener los datasets del repositorio aima-data
+git submodule init
+git submodule update
+
+:: Instalar para ejecutar el banco de pruebas
+pip install pytest
+
+:: Ejecutar las pruebas
+py.test
