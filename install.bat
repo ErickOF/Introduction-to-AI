@@ -1,3 +1,6 @@
+:: Instalar primero pip
+conda install pip
+
 :: Instalar dependencias
 pip install -r requirements.txt
 pip install --upgrade setuptools
