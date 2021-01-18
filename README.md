@@ -43,3 +43,5 @@ compilación por a parte, esto se puede hacer [aquí](https://visualstudio.micro
 
 
 ## **Reportar fallos**
+
+Por favor reporte cualquier error o fallo que tenga [aquí](https://github.com/ErickOF/Introduction-to-AI-Master-Degree/issues/new?assignees=ErickOF&labels=bug&template=reportar-fallo.md&title=%5BBUG%5D).
