@@ -56,37 +56,37 @@ totalidad. Los datasets pueden descargarse en [aimacode/aima-data][aima-data].
 
 | **Capítulo** | **Nombre (3<sup>era</sup> edición)** | **Nombre (repositorio)**           | **Enlace a cuaderno** |
 | :----------- | :----------------------------------- | :--------------------------------- | :-------------------- |
-| 2            | Random-Vacuum-Agent                  | `RandomVacuumAgent`                | https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
-| 2            | Model-Based-Vacuum-Agent             | `ModelBasedVacuumAgent`            | https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
-| 2.1          | Environment                          | `Environment`                      | https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
-| 2.1          | Agent                                | `Agent`                            | https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
-| 2.3          | Table-Driven-Vacuum-Agent            | `TableDrivenVacuumAgent`           | https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
-| 2.7          | Table-Driven-Agent                   | `TableDrivenAgent`                 | https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
-| 2.8          | Reflex-Vacuum-Agent                  | `ReflexVacuumAgent`                | https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
-| 2.10         | Simple-Reflex-Agent                  | `SimpleReflexAgent`                | https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
-| 2.12         | Model-Based-Reflex-Agent             | `ReflexAgentWithState`             | https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
-| 3            | Problem                              | `Problem`                          | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3            | Node                                 | `Node`                             | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3            | Queue                                | `Queue`                            | [utils.py]            |
-| 3.1          | Simple-Problem-Solving-Agent         | `SimpleProblemSolvingAgent`        | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.2          | Romania                              | `romania`                          | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.7          | Tree-Search                          | `depth/breadth_first_tree_search`  | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.7          | Graph-Search                         | `depth/breadth_first_graph_search` | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.11         | Breadth-First-Search                 | `breadth_first_graph_search`       | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.14         | Uniform-Cost-Search                  | `uniform_cost_search`              | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.17         | Depth-Limited-Search                 | `depth_limited_search`             | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.18         | Iterative-Deepening-Search           | `iterative_deepening_search`       | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.22         | Best-First-Search                    | `best_first_graph_search`          | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.24         | A\*-Search                           | `astar_search`                     | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 3.26         | Recursive-Best-First-Search          | `recursive_best_first_search`      | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 4.2          | Hill-Climbing                        | `hill_climbing`                    | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 4.5          | Simulated-Annealing                  | `simulated_annealing`              | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 4.8          | Genetic-Algorithm                    | `genetic_algorithm`                | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 4.11         | And-Or-Graph-Search                  | `and_or_graph_search`              | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 4.21         | Online-DFS-Agent                     | `online_dfs_agent`                 | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 4.24         | LRTA\*-Agent                         | `LRTAStarAgent`                    | https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
-| 5.3          | Minimax-Decision                     | `minimax_decision`                 | [games.py]            |
-| 5.7          | Alpha-Beta-Search                    | `alphabeta_search`                 | [games.py]            |
+| 2            | Random-Vacuum-Agent                  | `RandomVacuumAgent`                | agents: https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
+| 2            | Model-Based-Vacuum-Agent             | `ModelBasedVacuumAgent`            | agents: https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
+| 2.1          | Environment                          | `Environment`                      | agents: https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
+| 2.1          | Agent                                | `Agent`                            | agents: https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
+| 2.3          | Table-Driven-Vacuum-Agent            | `TableDrivenVacuumAgent`           | agents: https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
+| 2.7          | Table-Driven-Agent                   | `TableDrivenAgent`                 | agents: https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
+| 2.8          | Reflex-Vacuum-Agent                  | `ReflexVacuumAgent`                | agents: https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
+| 2.10         | Simple-Reflex-Agent                  | `SimpleReflexAgent`                | agents: https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
+| 2.12         | Model-Based-Reflex-Agent             | `ReflexAgentWithState`             | agents: https://colab.research.google.com/drive/1BAKBUAOQMfwn4YGS5OjdbcS4YOV_ZWd-?usp=sharing   |
+| 3            | Problem                              | `Problem`                          | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3            | Node                                 | `Node`                             | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3            | Queue                                | `Queue`                            | queue: https://colab.research.google.com/drive/1lx1a8WnUm3bXN-xGLHe2K2s4Pv72zkB0?usp=sharing   |
+| 3.1          | Simple-Problem-Solving-Agent         | `SimpleProblemSolvingAgent`        | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.2          | Romania                              | `romania`                          | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.7          | Tree-Search                          | `depth/breadth_first_tree_search`  | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.7          | Graph-Search                         | `depth/breadth_first_graph_search` | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.11         | Breadth-First-Search                 | `breadth_first_graph_search`       | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.14         | Uniform-Cost-Search                  | `uniform_cost_search`              | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.17         | Depth-Limited-Search                 | `depth_limited_search`             | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.18         | Iterative-Deepening-Search           | `iterative_deepening_search`       | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.22         | Best-First-Search                    | `best_first_graph_search`          | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.24         | A\*-Search                           | `astar_search`                     | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 3.26         | Recursive-Best-First-Search          | `recursive_best_first_search`      | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 4.2          | Hill-Climbing                        | `hill_climbing`                    | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 4.5          | Simulated-Annealing                  | `simulated_annealing`              | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 4.8          | Genetic-Algorithm                    | `genetic_algorithm`                | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 4.11         | And-Or-Graph-Search                  | `and_or_graph_search`              | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 4.21         | Online-DFS-Agent                     | `online_dfs_agent`                 | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 4.24         | LRTA\*-Agent                         | `LRTAStarAgent`                    | search: https://colab.research.google.com/drive/1ID-cEhDSGUSX24VwibGVIyHRpJsg-DHO?usp=sharing   |
+| 5.3          | Minimax-Decision                     | `minimax_decision`                 | games: https://colab.research.google.com/drive/1HlhOJgzkkPWEVC5QU4Gr7v3BAHzzBAg9?usp=sharing   |
+| 5.7          | Alpha-Beta-Search                    | `alphabeta_search`                 | games: https://colab.research.google.com/drive/1HlhOJgzkkPWEVC5QU4Gr7v3BAHzzBAg9?usp=sharing   |
 | 6            | CSP                                  | `CSP`                              | [csp.py]              |
 | 6.3          | AC-3                                 | `AC3`                              | [csp.py]              |
 | 6.5          | Backtracking-Search                  | `backtracking_search`              | [csp.py]              |
