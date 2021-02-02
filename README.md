@@ -1,4 +1,4 @@
-# **Introducción a la Inteligencia Artificial - Curso de Maestría**
+# **Introducción a la Inteligencia Artificial**
 
 ## **Ejecución Local**
 ------------------------------------------------------------------------------
