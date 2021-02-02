@@ -44,6 +44,16 @@ compilación por a parte, esto se puede hacer [aquí](https://visualstudio.micro
 
 ![build-tools](src/imgs/BuildTools.PNG)
 
+## **Introducción a `aima-python`**
+
+El repositorio [aima-python](https://github.com/aimacode/aima-python) implementa, en código de Python, los algoritmos en el libro de texto *[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu)*. Un módulo típico en el repositorio tiene el código de un solo capítulo del libro, pero algunos módulos combinan varios capítulos. El código en este repositorio intenta reflejar el pseudocódigo en el libro de texto lo más fielmente posible y enfatizar la legibilidad ante todo. Para cada módulo, hay tres o cuatro archivos, por ejemplo:
+
+- [**`nlp.py`**](https://github.com/aimacode/aima-python/blob/master/nlp.py): Código fuente con tipos de datos y algoritmos para el procesamiento del lenguaje natural; las funciones tienen cadenas de documentación que explican su uso.
+- [**`nlp.ipynb`**](https://github.com/aimacode/aima-python/blob/master/nlp.ipynb): Un cuaderno como este; da ejemplos y explicaciones de uso más detallados.
+- [**`nlp_apps.ipynb`**](https://github.com/aimacode/aima-python/blob/master/nlp_apps.ipynb): Un cuaderno de Jupyter que ofrece ejemplos de aplicaciones del código.
+- [**`tests/test_nlp.py`**](https://github.com/aimacode/aima-python/blob/master/tests/test_nlp.py): Casos de prueba, utilizados para verificar que el código sea correcto y también útiles para ver ejemplos de uso.
+
+Tomado del [cuaderno](https://github.com/aimacode/aima-python/blob/master/intro.ipynb) escrito por [Chirag Vertak](https://github.com/chiragvartak) y [Peter Norvig](https://github.com/norvig).
 
 ## **Códigos en Google Colab**
 ------------------------------------------------------------------------------
@@ -148,6 +158,41 @@ totalidad. Los datasets pueden descargarse en [aimacode/aima-data][aima-data].
 | 23           | Chart-Parse                          | `Chart`                            | [nlp.py]              |
 | 23.5         | CYK-Parse                            | `CYK_parse`                        | [nlp.py]              |
 | 25.9         | Monte-Carlo-Localization             | `monte_carlo_localization`         | [probability.py]      |
+
+<!--
+Cuadernos pendientes:
+* agents.ipynb
+* arc_consitency_heuristics.ipynb
+* classical_planning_approches.ipynb
+* csp.ipynb
+* games.ipynb
+* improving_sat_algorithms.ipynb
+* index.ipynb
+* intro.ipynb
+* knowledge_current_best.ipynb
+* knowledge_FOIL.ipynb
+* knowledge_version_space.ipynb
+* learning_apps.ipynb
+* learning.ipynb
+* logic.ipynb
+* mdp_apps.ipynb
+* mdp.ipynb
+* neural_nets.ipynb
+* nlp_apps.ipynb
+* nlp_apps.ipynb
+* planning_angelic_search.ipynb
+* planning_graphPlan.ipynb
+* planning_hierarchical_serach.ipynb
+* planning_partial_order_planner.ipynb
+* planning_total_order_planner.ipynb
+* planning.ipynb
+* probability.ipynb
+* reinforcement_learning.ipynb
+* search.ipynb
+* text.ipynb
+* vacuum_world.ipynb
+* viterbi_algorithm.ipynb
+-->
 
 
 ## **Reportar fallos**
